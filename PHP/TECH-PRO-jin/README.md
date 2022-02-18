@@ -1,0 +1,1 @@
+https://tech.pjin.jp/blog/2018/02/02/php-%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%a0%e6%bc%94%e7%bf%92%e5%95%8f%e9%a1%8c%ef%bc%91/
