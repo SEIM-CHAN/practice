@@ -11,3 +11,4 @@ chose_from_two.append('C')
 
 print(chose_from_two)
 print(answer)
+
